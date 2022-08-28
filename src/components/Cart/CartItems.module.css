@@ -1,0 +1,42 @@
+li {
+    list-style: none;
+    padding-bottom: 1rem;
+    border-bottom: 3px solid rgb(118, 63, 63);
+  }
+  ul {
+    padding: 0;
+    /* background-color: red; */
+  }
+  
+  .actions {
+    text-align: right;
+  }
+  
+  ul button {
+    text-align: right;
+    padding: 0.2rem 1rem;
+    margin-right: 10px;
+    background-color: transparent;
+    border-radius: 5px;
+    color: rgb(118, 63, 63);
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .summary {
+    margin-right: 200px;
+  }
+  
+  .price {
+    margin-left: 0;
+    margin-right: 5rem;
+    color: rgb(203, 67, 67);
+    font-weight: bold;
+  }
+  
+  .amount {
+    border: 1px solid lightgray;
+    padding: 0.2rem 0.7rem;
+    border-radius: 5px;
+    font-weight: bold;
+  }
